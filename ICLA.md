@@ -1,5 +1,3 @@
-
-
 # 📜 ASIOS™ Individual Contributor License Agreement (ICLA)
 
 **Version:** 1.0  
@@ -26,7 +24,7 @@
 ---
 
 ## 1. Purpose  
-This Agreement governs all Contributions by you to the ASIOS™ project (`asi-os/asios`).
+This Agreement governs all Contributions by you to the ASIOS™ project (asi-os/asios), which is owned and maintained by **KarLex AI, Inc.**.
 
 ---
 
@@ -38,12 +36,12 @@ This Agreement governs all Contributions by you to the ASIOS™ project (`asi-os
 ---
 
 ## 3. Copyright License Grant  
-You grant KarLex AI a perpetual, worldwide, non-exclusive, royalty-free, sublicensable, irrevocable license to reproduce, create derivatives, display, perform, sublicense, and distribute your Contributions under open-source or proprietary terms compatible with ASIOS™ licensing.
+You grant **KarLex AI, Inc.**, a perpetual, worldwide, non-exclusive, royalty-free, sublicensable, irrevocable license to reproduce, create derivatives, display, perform, sublicense, and distribute your Contributions under open-source or proprietary terms compatible with ASIOS™ licensing.
 
 ---
 
 ## 4. Patent License Grant  
-You grant KarLex AI a perpetual, worldwide, non-exclusive, royalty-free, irrevocable patent license to make, use, sell, import, and transfer your Contributions and derivatives.
+You grant **KarLex AI, Inc.**, a perpetual, worldwide, non-exclusive, royalty-free, irrevocable patent license to make, use, sell, import, and transfer your Contributions and derivatives.
 
 ---
 
@@ -53,7 +51,7 @@ You warrant that you have the right to submit your Contributions and that they d
 ---
 
 ## 6. Patent Termination  
-If you initiate patent litigation against KarLex AI or its users over your Contributions, all licenses granted here terminate immediately.
+If you initiate patent litigation against **KarLex AI, Inc.** or its users over your Contributions, all licenses granted here terminate immediately.
 
 ---
 
@@ -68,32 +66,18 @@ You waive all moral rights in your Contributions to the maximum extent permitted
 ---
 
 ## 9. No Obligation to Use Contributions  
-KarLex AI may choose whether to use, incorporate, or publish your Contributions.
+**KarLex AI, Inc.** may choose whether to use, incorporate, or publish your Contributions.
 
 ---
 
 ## 10. Assignment & Successors  
-KarLex AI may assign this Agreement to affiliates or successors without consent.
+**KarLex AI, Inc.** may assign this Agreement to affiliates or successors without consent.
 
 ---
 
 ## 11. Governing Law & Dispute Resolution  
-This Agreement is governed by Delaware law. Disputes will be resolved by AAA arbitration in Wilmington, DE.
+This Agreement is governed by Delaware law. Disputes will be resolved by AAA arbitration in Wilmington, DE, with **KarLex AI, Inc.** as the governing entity.
 
 ---
 
-## 12. Contributor Contact Information  
-- **Name:** __________________________  
-- **Email:** __________________________  
-
----
-
-## 13. Signature
-
-| Name            | Signature | Date (YYYY-MM-DD) |
-|-----------------|-----------|-------------------|
-| _______________ | __________| ________________  |
-
----
-
-© 2025 KarLex AI, Inc. — see [Legal & Governance Portal](https://asios.ai/legal)
+© 2025 **KarLex AI, Inc.** — see [Legal & Governance Portal](https://asios.ai/legal)
