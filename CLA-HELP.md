@@ -49,4 +49,6 @@ You only sign once—future PRs will auto-verify.
 ## 📬 Need Help?
 
 - **Email:** legal@karlex.ai  
-- **GitHub Discussions:** [asi-os/asios-legal discussions](https://github.com/asi-os/asios-legal/discussions)  
+- **GitHub Discussions:** [asi-os/asios-legal discussions](https://github.com/asi-os/asios-legal/discussions)
+  
+> © 2025 KarLex AI, Inc. — see [Legal & Governance Portal](https://asios.ai/legal)
