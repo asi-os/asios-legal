@@ -1,0 +1,17 @@
+
+
+# 📄 ASIOS™ Open-Source Licenses
+
+**ASIOS™** and its companion modules use multiple licenses to balance openness with commercial needs. Full license texts are in each repository’s `licenses/` directory.
+
+| SPDX Identifier       | Applies To                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| **GPL-2.0-only**      | `asios-core` (kernel patches & in-kernel modules)                           |
+| **GPL-3.0-or-later**  | `asios-userspace` (user-space daemons, services, utilities)                 |
+| **AGPL-3.0-or-later** | Community modules (e.g. `asios-community`) and all “Must Be Developed” roadmap deliverables |
+| **MIT**               | Helper tools, utility scripts, examples                                     |
+| **Apache-2.0**        | Documentation, build tooling, developer SDKs                                |
+
+Full license texts: [`licenses/`](licenses/)
+
+© 2025 KarLex AI, Inc. — see [Legal Portal](https://asios.ai/legal)
