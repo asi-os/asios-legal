@@ -1,17 +1,22 @@
+ASIOS™ Open-Source Licenses
 
+ASIOS™ and its companion modules use multiple licenses to balance openness with commercial needs. Full license texts are in each repository’s "licenses/" directory.
 
-# 📄 ASIOS™ Open-Source Licenses
+SPDX Identifier: GPL-2.0-only
+Applies To: asios-core (kernel patches & in-kernel modules)
 
-**ASIOS™** and its companion modules use multiple licenses to balance openness with commercial needs. Full license texts are in each repository’s `licenses/` directory.
+SPDX Identifier: GPL-3.0-or-later
+Applies To: asios-userspace (user-space daemons, services, utilities)
 
-| SPDX Identifier       | Applies To                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| **GPL-2.0-only**      | `asios-core` (kernel patches & in-kernel modules)                           |
-| **GPL-3.0-or-later**  | `asios-userspace` (user-space daemons, services, utilities)                 |
-| **AGPL-3.0-or-later** | Community modules (e.g. `asios-community`) and all “Must Be Developed” roadmap deliverables |
-| **MIT**               | Helper tools, utility scripts, examples                                     |
-| **Apache-2.0**        | Documentation, build tooling, developer SDKs                                |
+SPDX Identifier: AGPL-3.0-or-later
+Applies To: Community modules (e.g. asios-community) and all "Must Be Developed" roadmap deliverables
 
-Full license texts: [`licenses/`](licenses/)
+SPDX Identifier: MIT
+Applies To: Helper tools, utility scripts, examples
 
-© 2025 KarLex AI, Inc. — see [Legal Portal](https://asios.ai/legal)
+SPDX Identifier: Apache-2.0
+Applies To: Documentation, build tooling, developer SDKs
+
+Full license texts: licenses/
+
+© 2025 KarLex AI, Inc. — see Legal Portal: https://asios.ai/legal
