@@ -1,5 +1,6 @@
 
 # ⚖️ ASIOS™ Legal & Licensing Artifacts
+[![Sponsor](https://img.shields.io/github/sponsors/asi-os?label=Sponsor&logo=github)](https://github.com/sponsors/asi-os)
 
 Welcome to the **ASIOS™ Legal** repository. It contains all legal, licensing, compliance, and contributor documents for the ASIOS™ project.
 
